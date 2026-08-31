@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="EdbenDigital — Canadian digital agency" width="100%" />
+<img src="banner.svg" alt="EdbenDigital, Canadian digital agency" width="100%" />
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 **EdbenDigital** helps businesses build, improve, and scale their digital presence.
 
-We cover the full stack — from the first design decision to the data pipeline behind it — so our clients work with **one team instead of seven vendors**. Whether you need a new website, better visibility, stronger advertising, custom software, or smarter ways to use AI and data, we build solutions around your business and its goals.
+We cover the full stack, from the first design decision to the data pipeline behind it, so our clients work with **one team instead of seven vendors**. Whether you need a new website, better visibility, stronger advertising, custom software, or smarter ways to use AI and data, we build solutions around your business and its goals.
 
 📍 Based in Canada 🇨🇦 · Working with businesses of every size
 
@@ -46,12 +46,12 @@ We cover the full stack — from the first design decision to the data pipeline 
 Discovery  →  Strategy  →  Design  →  Build  →  Launch  →  Measure & Improve
 ```
 
-**Discovery** — We learn your business, your customers, and what success looks like.
-**Strategy** — We map the shortest path from where you are to that outcome.
-**Design** — Clean, modern interfaces built around how people actually use them.
-**Build** — Well-structured, maintainable, scalable code.
-**Launch** — Tested, secure, and monitored from day one.
-**Measure &amp; Improve** — Real data drives the next iteration.
+**Discovery:** We learn your business, your customers, and what success looks like.
+**Strategy:** We map the shortest path from where you are to that outcome.
+**Design:** Clean, modern interfaces built around how people actually use them.
+**Build:** Well-structured, maintainable, scalable code.
+**Launch:** Tested, secure, and monitored from day one.
+**Measure &amp; Improve:** Real data drives the next iteration.
 
 ---
 
